@@ -13,6 +13,7 @@
         <PackageReference Include="Moq" Version="4.20.72"/>
     </ItemGroup>
     <ItemGroup>
-        <ProjectReference Include="..\LoginProxy\LoginProxy.csproj"/>
+      <ProjectReference Include="..\..\src\LoginProxy\LoginProxy.csproj" />
     </ItemGroup>
+
 </Project>
